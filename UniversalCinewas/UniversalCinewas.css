@@ -1,0 +1,25 @@
+html,
+body{
+    height: 100%;
+}
+.burgerMenu{
+    position: relative;
+    top: 0;
+    right: 20;
+
+}
+.link{
+    position: relative;
+    top: 0;
+    left: 20px;
+    height: auto;
+    width: 60px;
+}
+input{
+    display: none;
+}
+label{
+    float: right;
+    padding-right: 50px;
+
+}
