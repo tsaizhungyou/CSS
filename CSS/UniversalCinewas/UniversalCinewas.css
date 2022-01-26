@@ -1,0 +1,17 @@
+html,
+body{
+    height: 100%;
+}
+
+input{
+    display: none;
+}
+
+.burger-menu{
+    float: right;
+}
+.notice{
+    background-color: antiquewhite;
+    height: 500px;
+    width: 500px;
+}
